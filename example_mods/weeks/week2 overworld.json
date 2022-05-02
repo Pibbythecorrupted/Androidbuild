@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Spookez", "spooky", [148, 22, 83]],
+		["South", "spooky2", [148, 22, 83]],
+		["Chasch", "spooky3", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "menu_Halloween",
+	"difficulties": "hard",
+	
+
+	"storyName": "spooky month!",
+	"weekBefore": "week2",
+	"weekName": "Week2 overworld",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

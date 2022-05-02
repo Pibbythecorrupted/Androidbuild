@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-67,
+				41
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				56,
+				64
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico Note Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				204,
+				-28
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pico Down Note MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				67
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pico Up note miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-508,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 100,
+			"name": "Pico NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 100,
+			"name": "Pico Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 100,
+			"name": "Pico Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				27
+			],
+			"anim": "singUP",
+			"fps": 100,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				17
+			],
+			"indices": [],
+			"fps": 100,
+			"anim": "UPloop",
+			"loop": true,
+			"name": "pico Up note0"
+		},
+		{
+			"offsets": [
+				165,
+				-54
+			],
+			"indices": [],
+			"fps": 100,
+			"anim": "DOWNloop",
+			"loop": true,
+			"name": "Pico Down Note0"
+		},
+		{
+			"offsets": [
+				20,
+				1
+			],
+			"indices": [],
+			"fps": 100,
+			"anim": "LEFTloop",
+			"loop": true,
+			"name": "Pico Note Right0"
+		},
+		{
+			"offsets": [
+				-30,
+				1
+			],
+			"indices": [],
+			"fps": 100,
+			"anim": "RIGHTloop",
+			"loop": true,
+			"name": "Pico NOTE LEFT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_FNF_assetss-1",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
